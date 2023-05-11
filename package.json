@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.3.3",
+    "sass": "^1.61.0",
+    "typescript": "^5.0.4",
+    "vite-plugin-vuetify": "^1.0.2",
+    "vue-tsc": "^1.2.0"
+  },
+  "dependencies": {
+    "vuetify": "^3.1.13",
+    "vuetify-pro-tiptap": "^2.0.1"
+  }
+}
